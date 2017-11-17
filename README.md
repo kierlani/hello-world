@@ -1,2 +1,2 @@
 # hello-world
-Learning to use GitHub
+I'm a college student learning to use GitHub. I'm also learning Python.
